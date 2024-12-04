@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\task04\bin\Debug\net5.0\task04.exe
+C:\Users\dell\source\repos\task04\bin\Debug\net5.0\task04.deps.json
+C:\Users\dell\source\repos\task04\bin\Debug\net5.0\task04.runtimeconfig.json
+C:\Users\dell\source\repos\task04\bin\Debug\net5.0\task04.runtimeconfig.dev.json
+C:\Users\dell\source\repos\task04\bin\Debug\net5.0\task04.dll
+C:\Users\dell\source\repos\task04\bin\Debug\net5.0\task04.pdb
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\task04.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\task04.AssemblyInfo.cs
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\task04.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\task04.sourcelink.json
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\task04.dll
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\refint\task04.dll
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\task04.pdb
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\task04.genruntimeconfig.cache
+C:\Users\dell\source\repos\task04\obj\Debug\net5.0\ref\task04.dll
