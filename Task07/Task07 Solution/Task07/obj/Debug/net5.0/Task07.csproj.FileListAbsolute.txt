@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\Task07 Solution\Task07\bin\Debug\net5.0\Task07.exe
+C:\Users\dell\source\repos\Task07 Solution\Task07\bin\Debug\net5.0\Task07.deps.json
+C:\Users\dell\source\repos\Task07 Solution\Task07\bin\Debug\net5.0\Task07.runtimeconfig.json
+C:\Users\dell\source\repos\Task07 Solution\Task07\bin\Debug\net5.0\Task07.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Task07 Solution\Task07\bin\Debug\net5.0\Task07.dll
+C:\Users\dell\source\repos\Task07 Solution\Task07\bin\Debug\net5.0\Task07.pdb
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\Task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\Task07.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\Task07.AssemblyInfo.cs
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\Task07.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\Task07.sourcelink.json
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\Task07.dll
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\refint\Task07.dll
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\Task07.pdb
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\Task07.genruntimeconfig.cache
+C:\Users\dell\source\repos\Task07 Solution\Task07\obj\Debug\net5.0\ref\Task07.dll
