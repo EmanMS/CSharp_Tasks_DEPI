@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\tak08\tak08\bin\Debug\net5.0\tak08.exe
+C:\Users\dell\source\repos\tak08\tak08\bin\Debug\net5.0\tak08.deps.json
+C:\Users\dell\source\repos\tak08\tak08\bin\Debug\net5.0\tak08.runtimeconfig.json
+C:\Users\dell\source\repos\tak08\tak08\bin\Debug\net5.0\tak08.runtimeconfig.dev.json
+C:\Users\dell\source\repos\tak08\tak08\bin\Debug\net5.0\tak08.dll
+C:\Users\dell\source\repos\tak08\tak08\bin\Debug\net5.0\tak08.pdb
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\tak08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\tak08.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\tak08.AssemblyInfo.cs
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\tak08.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\tak08.sourcelink.json
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\tak08.dll
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\refint\tak08.dll
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\tak08.pdb
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\tak08.genruntimeconfig.cache
+C:\Users\dell\source\repos\tak08\tak08\obj\Debug\net5.0\ref\tak08.dll
