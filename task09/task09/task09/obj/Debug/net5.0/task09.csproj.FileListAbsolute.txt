@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\task09\task09\bin\Debug\net5.0\task09.exe
+C:\Users\dell\source\repos\task09\task09\bin\Debug\net5.0\task09.deps.json
+C:\Users\dell\source\repos\task09\task09\bin\Debug\net5.0\task09.runtimeconfig.json
+C:\Users\dell\source\repos\task09\task09\bin\Debug\net5.0\task09.runtimeconfig.dev.json
+C:\Users\dell\source\repos\task09\task09\bin\Debug\net5.0\task09.dll
+C:\Users\dell\source\repos\task09\task09\bin\Debug\net5.0\task09.pdb
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\task09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\task09.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\task09.AssemblyInfo.cs
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\task09.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\task09.sourcelink.json
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\task09.dll
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\refint\task09.dll
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\task09.pdb
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\task09.genruntimeconfig.cache
+C:\Users\dell\source\repos\task09\task09\obj\Debug\net5.0\ref\task09.dll
